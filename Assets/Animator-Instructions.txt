@@ -1,0 +1,5 @@
+Need to add these parameters
+Float  -> Speed
+Bool   -> IsMoving
+Bool   -> IsGrounded
+Trigger-> Jump
